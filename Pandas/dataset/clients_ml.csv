@@ -1,0 +1,22 @@
+client_id,age,sexe,ville,profession,salaire,anciennete,nombre_commandes,depenses,churn
+1,25,M,Casablanca,Ingénieur,5000,2,8,4200,0
+2,31,F,Rabat,Comptable,6500,5,15,9000,0
+3,28,M,Marrakech,Développeur,4500,3,4,1800,1
+4,35,F,Casablanca,Manager,8000,7,20,15000,0
+5,,M,Rabat,Commercial,9000,10,25,21000,0
+6,29,F,Tanger,Analyste,5200,4,7,3500,1
+7,38,M,CASABLANCA,Ingénieur,7500,8,18,12000,0
+8,N/A,F,Marrakech,Développeur,4800,2,5,2200,1
+9,45,M,Rabat,Directeur,10000,12,30,30000,0
+10,33,F,Tanger,Analyste,6200 DH,6,9,5000,1
+11,27,M,Casablanca,Commercial,4700,1,3,1200,1
+12,52,F,Rabat,Manager,11000,15,28,27000,0
+13,24,M,Marrakech,Développeur,4300,1,2,900,1
+14,40,F,Casablanca,Ingénieur,8500,9,22,17000,0
+14,40,F,Casablanca,Ingénieur,8500,9,22,17000,0
+15,36,M,Tanger,Commercial,5800,5,10,6200,1
+16,30,F,Rabat,Analyste,6100,4,12,7600,0
+17,67,M,Casablanca,Directeur,12500,20,35,50000,0
+18,26,F,Marrakech,Commercial,4600,2,1,500,1
+19,34,M,Rabat,Ingénieur,7200,6,16,11000,0
+20,39,F,Tanger,Manager,7800,8,19,14500,0
